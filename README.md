@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on:
   - Web-based **CMS** using the MERN Stack
 - 💡 Participated in:
-  - **Hackathons & Ideathons** (Water Efficiency, FOB Utilization)
+  - **Hackathons & Ideathons** 
   - **NSS** volunteer work with strong commitment to social impact
 - 🌱 I’m constantly learning: **DSA**, **Machine Learning**, **System Design**, **Dev Tools**
 - 📫 Connect with me:  
