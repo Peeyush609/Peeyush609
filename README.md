@@ -40,9 +40,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Peeyush609&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Peeyush609&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peeyush609&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ---
 
