@@ -30,9 +30,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,nodejs,react,mongodb,mysql,html,css,js,tailwind,git,github,vscode" alt="Tech Stack" />
 </p>
 
-
-> *(Let me know when your repo links are public so I can add them!)*
-
 ---
 
 ### 📊 GitHub Stats
