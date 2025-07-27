@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a **2nd Year Computer Science student** at **Netaji Subhas University of Technology (NSUT)**
+- 🎓 I'm a **3rd Year Computer Science student** at **Netaji Subhas University of Technology (NSUT)**
 - 🔭 I’m currently working on:
   - Web-based **CMS** using the MERN Stack
 - 💡 Participated in:
