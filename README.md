@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peeyush Gupta</h1>
-<h3 align="center">2nd Year CSE Student | Developer | Problem Solver | Open Source Enthusiast</h3>
+<h3 align="center">3rd Year CSE Student | Developer | Problem Solver | Open Source Enthusiast</h3>
 
 <p align="center">
   <img src="./beautiful-office-space-cartoon-style.jpg" alt="Cool Tech Avatar" width="200"/>
